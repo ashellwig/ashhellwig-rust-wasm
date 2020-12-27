@@ -1,7 +1,7 @@
 [package]
-name = "yew-wasm-pack-template"
-version = "0.2.0"
-authors = ["Yew Maintainers <maintainers@yew.rs"]
+name = "ashhellwig-wasm"
+version = "0.1.0"
+authors = ["Ash Hellwig <ahellwig.dev@gmail.com>"]
 edition = "2018"
 
 [lib]

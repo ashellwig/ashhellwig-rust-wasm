@@ -1,8 +1,18 @@
+# Rust
 /target
 **/*.rs.bk
 Cargo.lock
 bin/
+
+# WASM-Pack
 pkg/
 dist/
 wasm-pack.log
+
+# Node.js
 node_modules
+
+# Environment Variables
+.env
+.env.*
+!.env.example

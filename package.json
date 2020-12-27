@@ -1,4 +1,10 @@
 {
+  "name": "ashhellwig-wasm",
+  "author": {
+    "name": "Ash Hellwig",
+    "email": "ahellwig.dev@gmail.com",
+    "url": "https://ashhellwig.netlify.app"
+  },
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --mode development",

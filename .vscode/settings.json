@@ -1,0 +1,18 @@
+{
+    /* Programming Langauge Environment Settings */
+    // Rust
+    "rust-client.channel": "stable",
+    "rust.all_features": true,
+    "rust.cfg_test": true,
+    "rust.clippy_preference": "opt-in",
+    "rust.racer_completion": false,
+    // Javascript
+    "npm.packageManager": "yarn",
+    "prettier.packageManager": "yarn",
+    /* General Editor */
+    // Spell Checker
+    "cSpell.words": [
+        "ashhellwig",
+        "wasm"
+    ]
+}
